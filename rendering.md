@@ -1,5 +1,3 @@
-In React, **rendering** refers to the process of displaying the user interface (UI) by converting React components into actual HTML elements that the browser can understand and display. Rendering is central to how React works, as it ensures the UI is updated to reflect the current state of the application.
-
 ### Types of Rendering in React
 
 1. **Initial Rendering**
